@@ -1,0 +1,24 @@
+{
+  "SKU": 73973001,
+  "Category": "Dental alloy",
+  "Color": "grau",
+  "Indication": "Aufbrennlegierung",
+  "AlloyType": 5,
+  "PointTwoPercentYieldStrengthInMPaCured": 590,
+  "VickersHardness": 420,
+  "ElongationAtBreakInPercent": 4,
+  "MeltingIntervalCelsius": "1490",
+  "ElementFeInPercent": "0,7",
+  "ElementMnInPercent": "0,6",
+  "ElementCInPercent": "0,5",
+  "ElementCoInPercent": "62,5",
+  "ElementCrInPercent": "28,5",
+  "ElementMoInPercent": "6,1",
+  "ElementSiInPercent": "0,5",
+  "ElementWInPercent": "0,6",
+  "PriceEURInCent": 37200
+}
+
+
+
+

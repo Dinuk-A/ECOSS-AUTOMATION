@@ -1,0 +1,35 @@
+# Compiled files
+target/
+
+# IDE configurations
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Maven dependencies
+.m2/
+
+# Logs & reports
+logs/
+*.log
+allure-results/
+allure-report/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Personal config files
+#src/test/resources/config.properties
+.env
+allure-report.zip
+CopyPaste.java
+screenshots/
+allure-report.zip
+src/test/resources/suites/z_dinuka/
+src/test/java/com/automation/framework/z_dinuka
+src/main/java/com/automation/framework/ui_pages/playwright/z_dinuka
+src/main/java/com/automation/framework/ui_pages/selenium/z_dinuka
