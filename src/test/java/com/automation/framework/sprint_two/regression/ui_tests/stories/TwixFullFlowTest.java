@@ -57,7 +57,7 @@ public class TwixFullFlowTest extends PlaywrightBaseTest {
                 header.clickSignIn();
 
                 Allure.step("Login");
-                String twixLoginFilePath = "src/test/resources/data/ui/ecos/twix_login.json";
+                String twixLoginFilePath = "src/test/resources/data/ui/twix_login.json";
                 String username = (String) JsonReader.fetchJsonValueByKey(twixLoginFilePath, "username");
                 String password = (String) JsonReader.fetchJsonValueByKey(twixLoginFilePath, "password");
 
@@ -161,7 +161,7 @@ public class TwixFullFlowTest extends PlaywrightBaseTest {
                 header.clickSignIn();
 
                 Allure.step("Login");
-                String twixLoginFilePath = "src/test/resources/data/ui/ecos/twix_login.json";
+                String twixLoginFilePath = "src/test/resources/data/ui/twix_login.json";
                 String username = (String) JsonReader.fetchJsonValueByKey(twixLoginFilePath, "username");
                 String password = (String) JsonReader.fetchJsonValueByKey(twixLoginFilePath, "password");
 
